@@ -4,7 +4,7 @@
 > Entregado por este mismo medio en el mes de <code>enero de 2023</code>. </i> <br />
 
 <p align="center">
-<img src="https://www.corresponsables.com/sites/default/files/samsung_1_0.jpg" alt="banner samsung desarrolladoras" /> <br />
+<img src="https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2022/06/desarrolladoras-foto-portada-samsung-2744591.jpg?tf=1200x" alt="banner samsung desarrolladoras" /> <br />
 </p>
 
 
